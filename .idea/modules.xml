@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubborpc/dubborpc.iml" filepath="$PROJECT_DIR$/dubborpc/dubborpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groupchat/groupchat.iml" filepath="$PROJECT_DIR$/groupchat/groupchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-http/netty-http.iml" filepath="$PROJECT_DIR$/netty-http/netty-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-simple/netty-simple.iml" filepath="$PROJECT_DIR$/netty-simple/netty-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcp-sticky/tcp-sticky.iml" filepath="$PROJECT_DIR$/tcp-sticky/tcp-sticky.iml" />
+    </modules>
+  </component>
+</project>
